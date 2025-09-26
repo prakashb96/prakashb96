@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Consistency**
 
-- 📫 How to reach me **diaprakash24@gmail.com**
+- 📫 How to reach me **prakashbalakrishnan2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

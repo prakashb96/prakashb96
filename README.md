@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Prakash&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descAlign=50&fontColor=000000&animation=twinkling&stroke=FFD700&strokeWidth=2" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=💡+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;⚡+Problem+Solving+Enthusiast;🌟+Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=💡+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;⚡+Problem+Solving+Enthusiast;" alt="Typing SVG" />
 
 </div>
 
@@ -182,6 +182,9 @@ Solutions in C++/Python covering arrays, heaps, DP, and tree problems. **200+ Pr
 
 ##  Connect with Me  
 <p align="left">
+  <a href="https://linkedin.com/in/prakashb96" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://github.com/prakashb96"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:prakashb96@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>  

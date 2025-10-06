@@ -81,12 +81,11 @@ A web application for creating professional resumes with a modern UI and easy-to
 
 ---
 
+---
+
 ### [Expense Tracker](https://github.com/prakashb96/expense-tracker)
 *Personal Finance Management*  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
 Track and manage personal expenses with categorization and spending analytics.
 
@@ -94,11 +93,10 @@ Track and manage personal expenses with categorization and spending analytics.
 
 ### [Todo App](https://github.com/prakashb96/todo-app)
 *Task Management Application*  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
 A simple yet effective task management application with add, edit, delete, and mark complete features.
+
 
 ---
 

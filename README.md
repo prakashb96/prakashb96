@@ -25,9 +25,9 @@ Currently diving deep into **JavaScript, HTML, CSS, and Firebase**, while also s
 
 ---
 
-##  Technical Skills  
+## 🧠 Technical Skills  
 
-###  Programming Languages  
+### 💻 Programming Languages  
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -36,24 +36,24 @@ Currently diving deep into **JavaScript, HTML, CSS, and Firebase**, while also s
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>  
 
-###  Frontend Development  
+### 🎨 Frontend Development  
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>  
 
-###  Backend & Database  
+### ⚙️ Backend & Database  
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>  
 
-###  DSA & Problem Solving  
+### 🧩 DSA & Problem Solving  
 <p align="left">
   <img src="https://img.shields.io/badge/Data_Structures-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Problem_Solving-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>  
 
-###  Tools & Platforms  
+### 🛠️ Tools & Platforms  
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -68,7 +68,7 @@ Currently diving deep into **JavaScript, HTML, CSS, and Firebase**, while also s
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -79,8 +79,6 @@ Currently diving deep into **JavaScript, HTML, CSS, and Firebase**, while also s
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 A web application for creating professional resumes with a modern UI and easy-to-use interface.
-
----
 
 ---
 
@@ -98,7 +96,6 @@ Track and manage personal expenses with categorization and spending analytics.
 
 A simple yet effective task management application with add, edit, delete, and mark complete features.
 
-
 ---
 
 ### [DSA Practice & Problem Solving](https://github.com/prakashb96/dsa-solutions)
@@ -106,13 +103,14 @@ A simple yet effective task management application with add, edit, delete, and m
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Solutions in C++/Python covering arrays, heaps, DP, and tree problems. **200+ Problems Solved** across LeetCode and CodeChef platforms.
+Solutions in C++/Python covering arrays, heaps, DP, and tree problems.  
+**200+ Problems Solved** across LeetCode and CodeChef platforms.
 
 </div>
 
 ---
 
-##  DSA & Problem Solving Achievements  
+## 🏆 DSA & Problem Solving Achievements  
 
 ### **200+ Problems Solved Across Platforms**
 | Platform | Problems Solved | Max Rating |
@@ -123,12 +121,12 @@ Solutions in C++/Python covering arrays, heaps, DP, and tree problems. **200+ Pr
 | **GeeksforGeeks** | 25 | — |
 
 ### **Hackathon Achievements**
--  **Runner-Up** - 24-hour National Hackathon at AMC Engineering College, Bengaluru  
--  **Participated** - Multiple Inter-college coding hackathons  
+- 🥈 **Runner-Up** - 24-hour National Hackathon at AMC Engineering College, Bengaluru  
+- 💡 **Participated** - Multiple Inter-college coding hackathons  
 
 ---
 
-##  GitHub Analytics  
+## 📊 GitHub Analytics  
 
 <div align="center">
 
@@ -161,7 +159,7 @@ Solutions in C++/Python covering arrays, heaps, DP, and tree problems. **200+ Pr
 
 ---
 
-##  GitHub Trophies  
+## 🥇 GitHub Trophies  
 
 <div align="center">
 
@@ -171,32 +169,37 @@ Solutions in C++/Python covering arrays, heaps, DP, and tree problems. **200+ Pr
 
 ---
 
-##  Currently Learning  
+## 📘 Currently Learning  
 - Advanced JavaScript and web development  
 - Backend integration with Firebase  
 - Advanced Data Structures & Algorithms  
 - Problem Solving techniques and optimization  
-- Full-Stack Development best practices
-- JavaSwing With Maven 
+- Full-Stack Development best practices  
+- Java Swing with Maven  
 
 ---
 
-##  Connect with Me  
+## 🤝 Connect with Me  
 <p align="left">
   <a href="https://linkedin.com/in/prakashb96" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/prakashb96"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:prakashb96@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/prakashb96">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:prakashb96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>  
 
 ---
 
+
 <div align="center">
 
-###  Fun Fact  
-*"In the vast universe of code, every problem is just a star waiting to be discovered!"*  
+## ✨ Fun Fact  
+*"In every bug lies an opportunity to learn something new."*  
 
-** From [prakashb96](https://github.com/prakashb96)**  
+**– From [Prakash Balakrishnan](https://github.com/prakashb96)**  
 
 </div>

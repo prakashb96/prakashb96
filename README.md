@@ -32,6 +32,7 @@ Currently diving deep into **JavaScript, HTML, CSS, and Firebase**, while also s
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>  
 
@@ -118,6 +119,8 @@ Solutions in C++/Python covering arrays, heaps, DP, and tree problems. **200+ Pr
 |-----------|----------------|-------------|
 | **LeetCode** | 200+ | 1737 |
 | **CodeChef** | 400+ | 1435 (Div-3) |
+| **Codeforces** | 41 | — |
+| **GeeksforGeeks** | 25 | — |
 
 ### **Hackathon Achievements**
 -  **Runner-Up** - 24-hour National Hackathon at AMC Engineering College, Bengaluru  

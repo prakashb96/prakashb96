@@ -18,7 +18,7 @@
 
 <div align="center">
 
-**Passionate learner and developer** who loves building **full-stack web applications** and solving **complex problems**.  
+**Passionate learner and developer** who loves building **Full-stack web applications** and solving **Complex problems**.  
 Currently diving deep into **JavaScript, HTML, CSS, and Firebase**, while also sharpening my **C++, Python, and C** fundamentals for problem solving and algorithmic thinking.
 
 </div>  

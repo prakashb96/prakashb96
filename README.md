@@ -21,9 +21,27 @@
 **Passionate learner and developer** who loves building **Full-stack web applications** and solving **Complex problems**.  
 Currently diving deep into **JavaScript, HTML, CSS, and Firebase**, while also sharpening my **C++, Python, and C** fundamentals for problem solving and algorithmic thinking.
 
-</div>  
+</div>
 
----
+## Coding Platforms
+
+<p align="left">
+  <a href="https://codolio.com/profile/prakashb">
+    <img src="https://img.shields.io/badge/Codolio-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/prakashme/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.codechef.com/users/prakashb">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/kamleshhh">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/sriprakashb">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
 
 ##  Technical Skills  
 

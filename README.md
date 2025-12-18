@@ -25,9 +25,9 @@ Currently diving deep into **JavaScript, HTML, CSS, and Firebase**, while also s
 
 ---
 
-## 🧠 Technical Skills  
+##  Technical Skills  
 
-### 💻 Programming Languages  
+###  Programming Languages  
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -36,24 +36,24 @@ Currently diving deep into **JavaScript, HTML, CSS, and Firebase**, while also s
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>  
 
-### 🎨 Frontend Development  
+###  Frontend Development  
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>  
 
-### ⚙️ Backend & Database  
+###  Backend & Database  
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>  
 
-### 🧩 DSA & Problem Solving  
+###  DSA & Problem Solving  
 <p align="left">
   <img src="https://img.shields.io/badge/Data_Structures-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Problem_Solving-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>  
 
-### 🛠️ Tools & Platforms  
+###  Tools & Platforms  
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -68,7 +68,7 @@ Currently diving deep into **JavaScript, HTML, CSS, and Firebase**, while also s
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -159,7 +159,7 @@ Solutions in C++/Python covering arrays, heaps, DP, and tree problems.
 
 ---
 
-## 🥇 GitHub Trophies  
+##  GitHub Trophies  
 
 <div align="center">
 
@@ -169,7 +169,7 @@ Solutions in C++/Python covering arrays, heaps, DP, and tree problems.
 
 ---
 
-## 📘 Currently Learning  
+##  Currently Learning  
 - Advanced JavaScript and web development  
 - Backend integration with Firebase  
 - Advanced Data Structures & Algorithms  

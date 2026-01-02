@@ -130,13 +130,13 @@ Solutions in C++/Python covering arrays, heaps, DP, and tree problems.
 
 ## 🏆 DSA & Problem Solving Achievements  
 
-### **200+ Problems Solved Across Platforms**
+### **1000+ Problems Solved Across Platforms**
 | Platform | Problems Solved | Max Rating |
 |-----------|----------------|-------------|
-| **LeetCode** | 200+ | 1737 |
-| **CodeChef** | 400+ | 1435 (Div-3) |
-| **Codeforces** | 41 | — |
-| **GeeksforGeeks** | 25 | — |
+| **LeetCode** | 400+ | 1866 |
+| **CodeChef** | 450+ | 1604 (Div-2) |
+| **Codeforces** | 50+| — |
+| **GeeksforGeeks** | 60 | — |
 
 ### **Hackathon Achievements**
 - 🥈 **Runner-Up** - 24-hour National Hackathon at AMC Engineering College, Bengaluru  

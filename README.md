@@ -146,18 +146,9 @@ Solutions in C++/Python covering arrays, heaps, DP, and tree problems.
 
 ## 📊 GitHub Analytics  
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prakashb96&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&ring_color=FFD700" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashb96&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF" alt="Top Languages" />
 
-</div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashb96&theme=dark&hide_border=true&background=000000&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF" alt="GitHub Streak" />
-
-</div>
 
 <div align="center">
 
@@ -165,25 +156,10 @@ Solutions in C++/Python covering arrays, heaps, DP, and tree problems.
 
 </div>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prakashb96/prakashb96/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prakashb96/prakashb96/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/prakashb96/prakashb96/output/github-snake.svg" />
-</picture>
-
-</div>  
 
 ---
 
-##  GitHub Trophies  
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prakashb96&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
 
 ---
 

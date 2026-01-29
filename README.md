@@ -165,11 +165,13 @@ Solutions in C++/Python covering arrays, heaps, DP, and tree problems.
 </p>
 
 
-
 ---
 
+<div align="center">
+  
+![snake gif](https://github.com/prakashb96/prakashb96/blob/output/github-snake-dark.svg)
 
-
+</div>
 ---
 
 ##  Currently Learning  

@@ -144,34 +144,36 @@ Solutions in C++/Python covering arrays, heaps, DP, and tree problems.
 
 ---
 
+
+
 ## 📊 GitHub Stats
 
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakashb96&show_icons=true&theme=dark&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prakashb96&show_icons=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashb96&layout=compact&theme=dark&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashb96&layout=compact&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FFD700" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prakashb96&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=prakashb96&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&border=FFD700" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakashb96&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakashb96&bg_color=000000&color=FFD700&line=FFD700&point=FFFFFF&hide_border=true" />
 </p>
-
 
 ---
 
 <div align="center">
-  
+
 ![snake gif](https://github.com/prakashb96/prakashb96/blob/output/github-snake-dark.svg)
 
 </div>
+
+
+
 ---
 
 ##  Currently Learning  
@@ -184,19 +186,29 @@ Solutions in C++/Python covering arrays, heaps, DP, and tree problems.
 
 ---
 
-## Connect with me
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="15%"> </h1>
-<p align="left">
+
+<h2 align="center">Connect with me</h2>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" 
+    width="120"
+  />
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/prakashb96" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/prakashb96">
+
+  <a href="https://github.com/prakashb96" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="mailto:prakashb96@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>  
+</p>
 
 ---
 
@@ -204,7 +216,7 @@ Solutions in C++/Python covering arrays, heaps, DP, and tree problems.
 <div align="center">
 
 ## ✨ Fun Fact  
-*"In every bug lies an opportunity to learn something new."*  
+*"I have been infected by a disease called curiosity."*  
 
 **– From [Prakash Balakrishnan](https://github.com/prakashb96)**  
 

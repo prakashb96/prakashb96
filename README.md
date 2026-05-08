@@ -155,10 +155,11 @@ Solutions in C++/Python covering arrays, heaps, DP, and tree problems.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashb96&layout=compact&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FFD700" />
 </p>
-
+```html id="rq0m6e"
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prakashb96&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&border=FFD700" />
+  <img src="https://streak-stats.demolab.com?user=prakashb96&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&sideNums=FFD700&currStreakNum=FFFFFF&dates=FFFFFF&border=FFD700&stroke=FFFFFF" />
 </p>
+```
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakashb96&bg_color=000000&color=FFD700&line=FFD700&point=FFFFFF&hide_border=true" />
